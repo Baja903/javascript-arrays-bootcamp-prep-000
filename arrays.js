@@ -5,3 +5,4 @@ var chocolateBars = [
   'skittles'
   ]
   
+function addElementToBeginningOfArray(chocolateBars, candyString)
