@@ -4,3 +4,6 @@ var chocolateBars = [
   'kitkat',
   'skittles'
   ]
+  
+var superheroines = ["catwoman", "she-hulk", "mystique"];
+superheroines.push ("wonder woman");
